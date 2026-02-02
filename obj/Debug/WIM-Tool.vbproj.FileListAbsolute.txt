@@ -1,0 +1,11 @@
+C:\Users\sYnap\source\repos\WIM-Tool\WIM-Tool\bin\Debug\WIM-Tool.exe.config
+C:\Users\sYnap\source\repos\WIM-Tool\WIM-Tool\bin\Debug\WIM-Tool.exe
+C:\Users\sYnap\source\repos\WIM-Tool\WIM-Tool\bin\Debug\WIM-Tool.pdb
+C:\Users\sYnap\source\repos\WIM-Tool\WIM-Tool\obj\Debug\WIM-Tool.vbproj.AssemblyReference.cache
+C:\Users\sYnap\source\repos\WIM-Tool\WIM-Tool\obj\Debug\WIM_Tool.MainForm.resources
+C:\Users\sYnap\source\repos\WIM-Tool\WIM-Tool\obj\Debug\WIM_Tool.Resources.resources
+C:\Users\sYnap\source\repos\WIM-Tool\WIM-Tool\obj\Debug\WIM-Tool.vbproj.GenerateResource.cache
+C:\Users\sYnap\source\repos\WIM-Tool\WIM-Tool\obj\Debug\WIM-Tool.vbproj.CoreCompileInputs.cache
+C:\Users\sYnap\source\repos\WIM-Tool\WIM-Tool\obj\Debug\WIM-Tool.exe
+C:\Users\sYnap\source\repos\WIM-Tool\WIM-Tool\obj\Debug\WIM-Tool.pdb
+C:\Users\sYnap\source\repos\WIM-Tool\WIM-Tool\obj\Debug\WIM-Tool.exe.config
